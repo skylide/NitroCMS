@@ -1,3 +1,4 @@
+﻿
 ﻿# NitroCMS
 *NitroCms est un cms regroupant des fonctionnalités comme des plugins et des thèmes.*
 
@@ -12,7 +13,7 @@ Vous êtes autorisé à partager, copier, distribuer **NitroCMS** par    tous mo
        
 
  - Vous ne vous appropriez pas **NitroCMS**, vous devez donner crédits à
-   **NitroCMS**.
+   **NitroCMS** même si l'oeuvre est modifiée.
 
        
 
@@ -20,7 +21,7 @@ Vous êtes autorisé à partager, copier, distribuer **NitroCMS** par    tous mo
 
      
 
- - Si vous modifiez, transformez **NitroCMS** vous n'êtes pas autorisé  
+ - Si vous modifiez, transformez **NitroCMS** vous êtes autorisé  
    à rendre publique l'oeuvre modifiée.
 
     
@@ -29,5 +30,7 @@ Vous êtes autorisé à partager, copier, distribuer **NitroCMS** par    tous mo
    mesures techniques qui restreindraient légalement autrui à utiliser  
    **NitroCMS**.
 
-<center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>.</center>
+[![Licence Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Ce(tte) œuvre est mise à disposition selon les termes de la  [Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+Copiez ce code pour informez vos visiteurs !
