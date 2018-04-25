@@ -8,12 +8,12 @@ Toute infraction par un utilisateur ou par une personne physique ou morale ayant
 
 La licence Creative Commons BY-NC-ND 4.0 stipule principalement que :
 
-Vous êtes autorisé à partager, copier, distribuer CraftMyWebsite par tous moyens et sous tous formats à condition que :
+Vous êtes autorisé à partager, copier, distribuer NitroCMS par tous moyens et sous tous formats à condition que :
 
-Vous ne vous appropriez pas CraftMyWebsite, vous devez donner crédits à CraftMyWebsite.
+Vous ne vous appropriez pas NitroCMS, vous devez donner crédits à CraftMyWebsite.
 
-Vous ne devez pas faire un usage commercial de CraftMyWebsite.
+Vous ne devez pas faire un usage commercial de NitroCMS.
 
-  Si vous modifiez, transformez CraftMyWebsite vous n'êtes pas autorisé à rendre publique l'oeuvre modifiée.
+  Si vous modifiez, transformez NitroCMS vous n'êtes pas autorisé à rendre publique l'oeuvre modifiée.
 
   Vous n'êtes pas autorisé à prendre des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser    NitroCMS.
